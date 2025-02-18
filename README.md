@@ -52,11 +52,11 @@ Install dependencies:-
 ```bash
    "pip install -r requirements.txt"
 ``` 
-4. 
+4.  create migration files for any changes made to your models.
 ```bash
    "python manage.py makemigrations"
 ``` 
-5. 
+5. After creating migrations, apply them to the database using:
 ```bash
    "python manage.py migrate"
 ``` 
