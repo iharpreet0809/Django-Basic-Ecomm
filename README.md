@@ -59,10 +59,14 @@ Install dependencies:-
 5. After creating migrations, apply them to the database using:
 ```bash
    "python manage.py migrate"
-``` 
-6. Run the server for running the project in localhost
+```
+6. Create the superuser for the accessing the Admin Panel. add your username and password accordingly and remember them accessing the admin panel.
 ```bash
-   "python managepy runserver"
+   "python manage.py createsuperuser"
+```
+7. Run the server for running the project in localhost
+```bash
+   "python manage.py runserver"
 ``` 
 
 ## Screenshots 
