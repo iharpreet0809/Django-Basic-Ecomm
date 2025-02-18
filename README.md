@@ -9,7 +9,7 @@ First, of all Install Vs code/Any Editor open terminal/cmd. & Follow the below s
 
 
 ## Run Locally:-
-Clone the project
+#### Clone the project
 
 ```bash
   git clone https://link-to-project
@@ -67,20 +67,20 @@ Install dependencies:-
 
 ## Screenshots 
 
-1. Actual View of the website after running the localhost server.
+### 1. Actual View of the website after running the localhost server.
 ![Screenshot](Screenshots/Screenshot%20(140).png)
 
-2. Admin Panel View accessed using http://127.0.0.1:8000/admin/ & also showing left side Products Table/Model
+### 2. Admin Panel View accessed using http://127.0.0.1:8000/admin/ & also showing left side Products Table/Model
    --with the Create/Add Product on the upper right side
 ![Screenshot](Screenshots/Screenshot%20(141).png)
 
-3. This is the view of the Products Model/Table and there is the list too of 3 products like Laptop, Mobile and Speaker
+### 3. This is the view of the Products Model/Table and there is the list too of 3 products like Laptop, Mobile and Speaker
 ![Screenshot](Screenshots/Screenshot%20(142).png)
 
-4. This is the Update View of the product where we can update the details of the speaker accordingly and save them using save button below.
+### 4. This is the Update View of the product where we can update the details of the speaker accordingly and save them using save button below.
 ![Screenshot](Screenshots/Screenshot%20(144).png)
 
-5. This is the Delete View of the product/Products
+### 5. This is the Delete View of the product/Products
 ![Screenshot](Screenshots/Screenshot%20(143).png)
 
 ## Contact Me:
